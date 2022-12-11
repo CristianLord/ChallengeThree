@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\1f218da3-6f88-4c72-8cfd-1ffb12556580Test_PDF.pdf",
+      "PackagePath": "staticwebassets\\Journals\\1f218da3-6f88-4c72-8cfd-1ffb12556580Test_PDF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\20d73cb1-3b1e-4932-9b8e-11a73a8a22e9Test_PDF.pdf",
+      "PackagePath": "staticwebassets\\Journals\\20d73cb1-3b1e-4932-9b8e-11a73a8a22e9Test_PDF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\3c8524c7-c4bf-4d0d-9d19-db2e4b4050f8CV_CVM.pdf",
+      "PackagePath": "staticwebassets\\Journals\\3c8524c7-c4bf-4d0d-9d19-db2e4b4050f8CV_CVM.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\543687d8-2b26-4845-9828-2bd6f1a2a3cbTest_PDF.pdf",
+      "PackagePath": "staticwebassets\\Journals\\543687d8-2b26-4845-9828-2bd6f1a2a3cbTest_PDF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\6422ae97-a56f-44fe-b14a-bd0422a0a3e9Test_PDF.pdf",
+      "PackagePath": "staticwebassets\\Journals\\6422ae97-a56f-44fe-b14a-bd0422a0a3e9Test_PDF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\6cc6ea9d-982d-4b37-9225-9c41e9ff519aUPVM_DOC_EST-Carta-Compromiso-del-Estudiante.pdf",
+      "PackagePath": "staticwebassets\\Journals\\6cc6ea9d-982d-4b37-9225-9c41e9ff519aUPVM_DOC_EST-Carta-Compromiso-del-Estudiante.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\853baed6-00aa-4f08-9676-3dfaf07adb96Test_PDF.pdf",
+      "PackagePath": "staticwebassets\\Journals\\853baed6-00aa-4f08-9676-3dfaf07adb96Test_PDF.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Cristian\\Desktop\\React\\challenge-three\\challengetwoapi\\wwwroot\\Journals\\9ee0137d-be19-4280-a315-8d6cddf54b25Lesson_Plans.pdf",
+      "PackagePath": "staticwebassets\\Journals\\9ee0137d-be19-4280-a315-8d6cddf54b25Lesson_Plans.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ChallengeTwoApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ChallengeTwoApi.props",
+      "PackagePath": "build\\ChallengeTwoApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ChallengeTwoApi.props",
+      "PackagePath": "buildMultiTargeting\\ChallengeTwoApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ChallengeTwoApi.props",
+      "PackagePath": "buildTransitive\\ChallengeTwoApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
